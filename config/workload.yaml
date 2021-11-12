@@ -11,6 +11,6 @@ spec:
       value: dev.local/my-java-web-app
   source:
     git:
-      url: https://github.com/sample-accelerators/my-java-web-app
+      url: https://github.com/pacphi/my-java-web-app
       ref:
         branch: main
